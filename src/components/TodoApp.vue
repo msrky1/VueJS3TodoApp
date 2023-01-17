@@ -144,7 +144,7 @@ export default {
              this.tasks.push({
 
                 name: this.task, 
-                status: "todo",
+                status: "Yapılacak",
              });
 
          }
